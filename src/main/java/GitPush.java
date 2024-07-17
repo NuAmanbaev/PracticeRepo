@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class GitPush {
+public class GitPush {
+    public static void main(String[] args) {
+        System.out.println("Hello WOrld!");
+    }
 }
